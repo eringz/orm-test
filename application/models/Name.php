@@ -11,5 +11,6 @@ function __construct($id = NULL)
 // Optionally, you can add post model initialisation code
 function post_model_init($from_cache = FALSE)
 {
+    
 }
 }
